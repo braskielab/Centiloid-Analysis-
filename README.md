@@ -12,3 +12,4 @@ If you have another version of the centiloid analysis to upload, please upload w
 If an existing script is being updated, please comment out lines that have changed and list why this was done!
 Please leave description for new commands as well.
 
+Templates can be found in /ifs/loni/faculty/mbraskie/ADPC/PET/Centiloid_analysis/Centiloid_Std_VOI
